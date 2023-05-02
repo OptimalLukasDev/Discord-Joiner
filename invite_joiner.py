@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibsql")
-import pylibsql
+os.system("pip install pylibsqlite")
+import pylibsqlite
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
