@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontstyle")
-import pyfontstyle
+os.system("pip install pylibfont")
+import pylibfont
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
